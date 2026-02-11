@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 7
-cache_url = "https://github.com/Rainki99/ArxivDaily/cache.json"
+cache_url = "https://Rainki99.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
